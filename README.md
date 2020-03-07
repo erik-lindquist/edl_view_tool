@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-'DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+```DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved```
 
 ## Development
 
