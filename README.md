@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-```EdlViewTool::Renderer.copyright 'Erik D. Lindquist', 'All rights reserved```
+```ruby
+EdlcampViewTool::Renderer.copyright 'Erik D. Lindquist', 'All rights reserved'
+```
 
 ## Development
 
