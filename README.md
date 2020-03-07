@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-```DevcampViewTool::Renderer.copyright 'Erik D. Lindquist', 'All rights reserved```
+```EdlViewTool::Renderer.copyright 'Erik D. Lindquist', 'All rights reserved```
 
 ## Development
 
